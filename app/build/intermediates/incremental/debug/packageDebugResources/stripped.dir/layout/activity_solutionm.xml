@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:background="@drawable/bg1"
+    android:scrollbarAlwaysDrawVerticalTrack="true"
+
+    >
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="11dp"
+        android:layout_marginTop="20dp"
+        android:outlineSpotShadowColor="@color/black"
+        app:cardCornerRadius="10dp"
+        android:background="@color/purple_500">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center"
+
+            >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="SOLUTION OF MATRIX"
+                android:textStyle="bold"
+                android:textAlignment="center"
+                android:textSize="35dp"
+
+                />
+        </LinearLayout>
+
+
+
+    </androidx.cardview.widget.CardView>
+
+
+
+<androidx.cardview.widget.CardView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+
+    android:layout_marginBottom="10dp"
+   >
+  <LinearLayout
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:gravity="center"
+      >
+       <Spinner
+           android:layout_width="wrap_content"
+           android:layout_height="50dp"
+           android:id="@+id/spin"
+
+
+           />
+  </LinearLayout>
+</androidx.cardview.widget.CardView>
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        app:cardCornerRadius="20dp"
+        android:layout_marginBottom="10dp"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            >
+
+            <EditText
+                android:id="@+id/matrix_inputa"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                android:background="#C4597E83"
+                android:hint="Enter matrix A(e.g.1 2 3,4  5  6, 7  8  9)"
+                android:inputType="textMultiLine"
+                android:textAlignment="center"
+                android:textColorHint="#DDCCD2"
+                android:textColor="#70151B2B"
+
+
+
+                />
+
+        </LinearLayout>
+
+
+    </androidx.cardview.widget.CardView>
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        app:cardCornerRadius="20dp"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            >
+
+            <EditText
+                android:id="@+id/matrix_inputd"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                android:background="#C4597E83"
+                android:hint="Enter matrix D(1,2,3)"
+                android:inputType="textMultiLine"
+                android:textAlignment="center"
+                android:textColorHint="#DDCCD2"
+                android:textColor="#15213E"
+
+
+
+                />
+
+        </LinearLayout>
+
+
+    </androidx.cardview.widget.CardView>
+
+    <Button
+
+        android:id="@+id/calculate_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="#2196F3"
+        android:padding="16dp"
+
+        android:backgroundTint="#898E89"
+        android:text="Calculate solution"
+        android:textColor="#212121" />
+
+    <TextView
+        android:id="@+id/result_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:padding="16dp"
+        android:layout_marginTop="16dp"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:textColor="#2196F3"/>
+
+
+
+</LinearLayout>

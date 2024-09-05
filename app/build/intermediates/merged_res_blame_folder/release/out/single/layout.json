@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-mergeReleaseResources-29:\\layout\\activity_multiplication.xml",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\layout\\activity_multiplication.xml"
+    },
+    {
+        "merged": "com.example.matrixcalculator.app-mergeReleaseResources-29:/layout/activity_solutionm.xml",
+        "source": "com.example.matrixcalculator.app-main-31:/layout/activity_solutionm.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-mergeReleaseResources-29:\\layout\\activity_subtration.xml",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\layout\\activity_subtration.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-mergeReleaseResources-29:\\layout\\activity_determinant.xml",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\layout\\activity_determinant.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-mergeReleaseResources-29:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-mergeReleaseResources-29:\\layout\\activity_addition.xml",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\layout\\activity_addition.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-mergeReleaseResources-29:\\layout\\activity_solutionm.xml",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\layout\\activity_solutionm.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-mergeReleaseResources-29:\\layout\\activity_transpose.xml",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\layout\\activity_transpose.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-mergeReleaseResources-29:\\layout\\activity_spalsh.xml",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\layout\\activity_spalsh.xml"
+    }
+]

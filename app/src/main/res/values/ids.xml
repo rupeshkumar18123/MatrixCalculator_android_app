@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="result_matrix" type="id" />
+    <item name="transpose_button" type="id" />
+    <item name="matrix1" type="id" />
+</resources>

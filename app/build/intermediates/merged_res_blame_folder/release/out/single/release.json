@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-merged_res-30:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-merged_res-30:\\layout_activity_spalsh.xml.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\layout\\activity_spalsh.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-merged_res-30:\\raw_matrixcalculator.zip.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\raw\\matrixcalculator.zip"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-merged_res-30:\\drawable_halftone.xml.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\drawable\\halftone.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-merged_res-30:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-merged_res-30:\\drawable_whatsapp.jpg.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\drawable\\whatsapp.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-merged_res-30:\\raw_matrix.json.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\raw\\matrix.json"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-merged_res-30:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-merged_res-30:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-merged_res-30:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-merged_res-30:\\drawable_calculator.xml.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\drawable\\calculator.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-merged_res-30:\\drawable_bg.xml.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\drawable\\bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-merged_res-30:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.matrixcalculator.app-merged_res-30:/layout_activity_solutionm.xml.flat",
+        "source": "com.example.matrixcalculator.app-main-31:/layout/activity_solutionm.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-merged_res-30:\\layout_activity_determinant.xml.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\layout\\activity_determinant.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-merged_res-30:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-merged_res-30:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-merged_res-30:\\raw_matrix2.json.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\raw\\matrix2.json"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-merged_res-30:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-merged_res-30:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-merged_res-30:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-merged_res-30:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-merged_res-30:\\layout_activity_subtration.xml.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\layout\\activity_subtration.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-merged_res-30:\\drawable_bg1.jpg.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\drawable\\bg1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-merged_res-30:\\anim_image.xml.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\anim\\image.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-merged_res-30:\\layout_activity_addition.xml.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\layout\\activity_addition.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-merged_res-30:\\drawable_abstractg.xml.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\drawable\\abstractg.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-merged_res-30:\\layout_activity_multiplication.xml.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\layout\\activity_multiplication.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-merged_res-30:\\layout_activity_transpose.xml.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\layout\\activity_transpose.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-merged_res-30:\\layout_activity_solutionm.xml.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\layout\\activity_solutionm.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rupes\\.gradle\\daemon\\7.5\\com.example.matrixcalculator.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    }
+]

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:background="@drawable/bg1">
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="11dp"
+        android:layout_marginTop="20dp"
+        android:outlineSpotShadowColor="@color/black"
+        app:cardCornerRadius="10dp"
+        android:background="@color/purple_500">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center"
+
+            >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="TRANSPOSE OF MATRIX"
+                android:textStyle="bold"
+                android:textAlignment="center"
+                android:textSize="30dp"
+
+                />
+        </LinearLayout>
+
+
+
+    </androidx.cardview.widget.CardView>
+
+    <!-- Title Text View -->
+
+
+    <!-- First Matrix Input -->
+    <TextView
+        android:text="Enter  matrix:"
+        android:textSize="18sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:id="@+id/matrix1"
+        android:background="#739DA3"
+        android:hint="e.g. 1  2  3, 4 5 6 ,7  8  9"
+        android:inputType="text"
+        android:lines="3"
+        android:gravity="top|left"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <!-- Transpose Button -->
+    <Button
+        android:id="@+id/transpose_button"
+        android:text="Transpose Matrix"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:background="#2196F3"
+        android:backgroundTint="#898E89"
+        />
+
+    <!-- Result Matrix Output -->
+    <TextView
+        android:text="Result:"
+        android:textSize="18sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:id="@+id/result_matrix"
+        android:enabled="false"
+        android:inputType="text"
+        android:lines="3"
+        android:gravity="top|left"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

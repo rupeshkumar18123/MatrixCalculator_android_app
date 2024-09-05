@@ -1,0 +1,119 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.matrixcalculator"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->F:\matrixcalculator\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->F:\matrixcalculator\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:5:5-46:19
+12        android:allowBackup="true"
+12-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.8.0] C:\Users\rupes\.gradle\caches\transforms-3\f8ca33f57cc610a0b1ed31d0cc4084bb\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+14        android:dataExtractionRules="@xml/data_extraction_rules"
+14-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:7:9-65
+15        android:extractNativeLibs="false"
+16        android:fullBackupContent="@xml/backup_rules"
+16-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:8:9-54
+17        android:icon="@drawable/calculator"
+17-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:9:9-44
+18        android:label="@string/app_name"
+18-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:10:9-41
+19        android:supportsRtl="true"
+19-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:11:9-35
+20        android:theme="@style/AppTheme.NoActionBar" >
+20-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:12:9-52
+21        <activity
+21-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:14:9-16:40
+22            android:name="com.example.matrixcalculator.transpose"
+22-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:15:13-38
+23            android:exported="false" />
+23-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:16:13-37
+24        <activity
+24-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:17:9-19:40
+25            android:name="com.example.matrixcalculator.solutionm"
+25-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:18:13-38
+26            android:exported="false" />
+26-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:19:13-37
+27        <activity
+27-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:20:9-22:40
+28            android:name="com.example.matrixcalculator.multiplication"
+28-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:21:13-43
+29            android:exported="false" />
+29-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:22:13-37
+30        <activity
+30-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:23:9-25:40
+31            android:name="com.example.matrixcalculator.subtration"
+31-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:24:13-39
+32            android:exported="false" />
+32-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:25:13-37
+33        <activity
+33-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:26:9-28:40
+34            android:name="com.example.matrixcalculator.addition"
+34-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:27:13-37
+35            android:exported="false" />
+35-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:28:13-37
+36        <activity
+36-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:29:9-31:40
+37            android:name="com.example.matrixcalculator.determinant"
+37-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:30:13-40
+38            android:exported="false" />
+38-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:31:13-37
+39        <activity
+39-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:32:9-41:20
+40            android:name="com.example.matrixcalculator.spalshActivity"
+40-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:33:13-43
+41            android:exported="true"
+41-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:34:13-36
+42            android:theme="@style/AppTheme.NoActionBar" >
+42-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:35:13-56
+43            <intent-filter>
+43-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:36:13-40:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:37:17-69
+44-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:37:25-66
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:39:17-77
+46-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:39:27-74
+47            </intent-filter>
+48        </activity>
+49        <activity
+49-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:42:9-45:59
+50            android:name="com.example.matrixcalculator.MainActivity"
+50-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:43:13-41
+51            android:exported="true"
+51-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:44:13-36
+52            android:theme="@style/AppTheme.NoActionBar" />
+52-->F:\matrixcalculator\app\src\main\AndroidManifest.xml:45:13-56
+53
+54        <provider
+54-->[androidx.emoji2:emoji2:1.2.0] C:\Users\rupes\.gradle\caches\transforms-3\27ea2d1fe40306b6a6ebc7514e2ae640\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+55            android:name="androidx.startup.InitializationProvider"
+55-->[androidx.emoji2:emoji2:1.2.0] C:\Users\rupes\.gradle\caches\transforms-3\27ea2d1fe40306b6a6ebc7514e2ae640\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+56            android:authorities="com.example.matrixcalculator.androidx-startup"
+56-->[androidx.emoji2:emoji2:1.2.0] C:\Users\rupes\.gradle\caches\transforms-3\27ea2d1fe40306b6a6ebc7514e2ae640\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+57            android:exported="false" >
+57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\rupes\.gradle\caches\transforms-3\27ea2d1fe40306b6a6ebc7514e2ae640\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+58            <meta-data
+58-->[androidx.emoji2:emoji2:1.2.0] C:\Users\rupes\.gradle\caches\transforms-3\27ea2d1fe40306b6a6ebc7514e2ae640\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+59                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\rupes\.gradle\caches\transforms-3\27ea2d1fe40306b6a6ebc7514e2ae640\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+60                android:value="androidx.startup" />
+60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\rupes\.gradle\caches\transforms-3\27ea2d1fe40306b6a6ebc7514e2ae640\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+61            <meta-data
+61-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\rupes\.gradle\caches\transforms-3\1d1173f99a1313055c26367e9296308a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+62                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+62-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\rupes\.gradle\caches\transforms-3\1d1173f99a1313055c26367e9296308a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+63                android:value="androidx.startup" />
+63-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\rupes\.gradle\caches\transforms-3\1d1173f99a1313055c26367e9296308a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+64        </provider>
+65    </application>
+66
+67</manifest>
